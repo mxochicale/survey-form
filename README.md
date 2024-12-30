@@ -20,3 +20,9 @@ Visit [codepen.io](https://codepen.io/abrar-malek/full/poeMBZd) or https://mxoch
 ## References
 * https://github.com/lazy-geek/survey-form; Live demo: https://lazy-geek.github.io/survey-form
 * https://codepen.io/alexandracaulea/pen/YzXdNbY ; https://github.com/alexandracaulea/freecodecamp-projects/tree/master/Responsive-Web-Design-Projects/Build%20a%20Survey%20Form
+* https://github.com/jkowalk/surveyjs-node-react-example
+
+## Clone repo
+```
+git clone git@github.com:mxochicale/survey-form.git
+```
